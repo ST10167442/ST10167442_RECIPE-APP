@@ -1,0 +1,15 @@
+C:\Users\Tshiamo\source\repos\poe-Part-01_RecipeApp-prog\poe-Part-01_RecipeApp-prog\bin\Debug\net6.0\poe-Part-01_RecipeApp-prog.exe
+C:\Users\Tshiamo\source\repos\poe-Part-01_RecipeApp-prog\poe-Part-01_RecipeApp-prog\bin\Debug\net6.0\poe-Part-01_RecipeApp-prog.deps.json
+C:\Users\Tshiamo\source\repos\poe-Part-01_RecipeApp-prog\poe-Part-01_RecipeApp-prog\bin\Debug\net6.0\poe-Part-01_RecipeApp-prog.runtimeconfig.json
+C:\Users\Tshiamo\source\repos\poe-Part-01_RecipeApp-prog\poe-Part-01_RecipeApp-prog\bin\Debug\net6.0\poe-Part-01_RecipeApp-prog.dll
+C:\Users\Tshiamo\source\repos\poe-Part-01_RecipeApp-prog\poe-Part-01_RecipeApp-prog\bin\Debug\net6.0\poe-Part-01_RecipeApp-prog.pdb
+C:\Users\Tshiamo\source\repos\poe-Part-01_RecipeApp-prog\poe-Part-01_RecipeApp-prog\obj\Debug\net6.0\poe-Part-01_RecipeApp-prog.csproj.AssemblyReference.cache
+C:\Users\Tshiamo\source\repos\poe-Part-01_RecipeApp-prog\poe-Part-01_RecipeApp-prog\obj\Debug\net6.0\poe-Part-01_RecipeApp-prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tshiamo\source\repos\poe-Part-01_RecipeApp-prog\poe-Part-01_RecipeApp-prog\obj\Debug\net6.0\poe-Part-01_RecipeApp-prog.AssemblyInfoInputs.cache
+C:\Users\Tshiamo\source\repos\poe-Part-01_RecipeApp-prog\poe-Part-01_RecipeApp-prog\obj\Debug\net6.0\poe-Part-01_RecipeApp-prog.AssemblyInfo.cs
+C:\Users\Tshiamo\source\repos\poe-Part-01_RecipeApp-prog\poe-Part-01_RecipeApp-prog\obj\Debug\net6.0\poe-Part-01_RecipeApp-prog.csproj.CoreCompileInputs.cache
+C:\Users\Tshiamo\source\repos\poe-Part-01_RecipeApp-prog\poe-Part-01_RecipeApp-prog\obj\Debug\net6.0\poe-Part-01_RecipeApp-prog.dll
+C:\Users\Tshiamo\source\repos\poe-Part-01_RecipeApp-prog\poe-Part-01_RecipeApp-prog\obj\Debug\net6.0\refint\poe-Part-01_RecipeApp-prog.dll
+C:\Users\Tshiamo\source\repos\poe-Part-01_RecipeApp-prog\poe-Part-01_RecipeApp-prog\obj\Debug\net6.0\poe-Part-01_RecipeApp-prog.pdb
+C:\Users\Tshiamo\source\repos\poe-Part-01_RecipeApp-prog\poe-Part-01_RecipeApp-prog\obj\Debug\net6.0\poe-Part-01_RecipeApp-prog.genruntimeconfig.cache
+C:\Users\Tshiamo\source\repos\poe-Part-01_RecipeApp-prog\poe-Part-01_RecipeApp-prog\obj\Debug\net6.0\ref\poe-Part-01_RecipeApp-prog.dll
